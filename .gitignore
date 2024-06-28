@@ -1,1 +1,6 @@
-*.json
+!cygnusx-1/gentx/*.json
+tmp/
+snapshots/
+snapshot.json
+*/node*/**
+cosmos-discord-faucet/
